@@ -1,0 +1,12 @@
+name: DataProductsWeek4
+title: DataProductsWeek4
+username:
+account: cmc201
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 573568
+bundleId: 1702842
+url: https://cmc201.shinyapps.io/DataProductsWeek4/
+when: 1542304137.01399
+asMultiple: FALSE
+asStatic: FALSE
